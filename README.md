@@ -1,4 +1,6 @@
-# Snowbug
+# [Deprecated] Snowbug
+
+**_The current version of this activity has been migrated to [Ada-Activities](https://github.com/Ada-Activities/snowbug)_**.
 
 ## Goal
 
